@@ -2,4 +2,4 @@ git clone "name of repository"
 git remote add origin https://github.com/salvatore-anania/git-begins.git
 git branch -M main
 git push -u origin main
-git pull <remote>
+git pull
